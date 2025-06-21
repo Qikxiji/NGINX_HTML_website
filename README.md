@@ -25,3 +25,4 @@ docker run --rm --detach -p 8080:8080 nginx_website:latest
 ## Открыть веб-сайт
 
 В поисковой строке браузера набрать `localhost:8080`
+![page](./output.png)
